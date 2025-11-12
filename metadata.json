@@ -1,0 +1,5 @@
+{
+  "name": "KSDM Bank",
+  "description": "A modern banking app to simulate adding funds and diversifying your portfolio across various investments. It is tailored for a Tanzanian audience with a mobile-first design and currency toggling between TZS and USD.",
+  "requestFramePermissions": []
+}
